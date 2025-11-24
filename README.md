@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Zainab Israr 👋</h1>
+  <h1>Hi, I'm Zainab Israr</h1>
   <p>
     <em>AI Engineer | Machine Learning | Data Science | Generative AI | Cloud AI |</em>
     <em>Aspiring Researcher</em>
