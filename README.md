@@ -39,7 +39,7 @@ I enjoy **turning complex AI concepts into practical solutions** and am keen to 
 ## Connect with Me
 
 <div align="center">
-  <a href="in/zainab-israr-306a581a5/" target="_blank">
+  <a href="in/zainab-israr-306a581a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Zainab%20Israr-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
